@@ -108,3 +108,6 @@ ecc2/target/
 assets/images/security/badrudi-exploit.mp4
 
 .aider*
+
+# Gerado pelo plugin odoo-timesheet (pode conter credenciais)
+.claude/odoo-timesheet/
